@@ -20,12 +20,20 @@
 
 1. Clone the repo
    ```
-   git clone git@github.com/ccobasi/leaderboard.git
+   git clone https://github.com/ccobasi/leaderboard.git
    ```
 2. Install NPM packages
    ```
    npm install
    ```
+
+### Usage
+
+In order to see the live demo and use the program please run the following command:
+
+```npm run build```
+
+```npm start```
 
 ## Author
 
