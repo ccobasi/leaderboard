@@ -2,7 +2,7 @@
 
 > Welcome to my leaderboard project, this is an interactive leaderboard excercise from Microverse.
 
-
+![screenshot](./screenshot.png)
 
 ## Built With
 
