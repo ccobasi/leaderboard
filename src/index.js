@@ -11,8 +11,6 @@ const submit = document.getElementById('add');
 const createGame = (name) => {
   leaderboard.innerHTML = '';
   name.result.map((e, index) => leaderboard.innerHTML += `<li class="list-group-item">${name.result[index].user} ${name.result[index].score}</li>`);
-
-  leaderboard.appendChild(name);
 };
 
 const callApi = async () => {
@@ -28,7 +26,7 @@ const addScore = () => {
   fetch(url, {
     method: 'POST',
     headers: {
-      'Content-type': 'application/json;',
+      'Content-type': 'application/json; charset=UTF-8',
     },
     body: JSON.stringify({
       user: name.value,
