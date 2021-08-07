@@ -47,7 +47,7 @@ In order to see the live demo and use the program please run the following comma
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/smunozmo/leaderboard/issues).
+Feel free to check the [issues page](https://github.com/ccobasi/leaderboard/issues).
 
 
 ## ğ Acknowledgements
